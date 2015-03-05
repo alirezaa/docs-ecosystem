@@ -27,7 +27,7 @@ driver jar :file:`mongo.jar` in your classpath.
 .. note::
   The following code snippets come from the :file:`QuickTour.java` example
   code that can be found with the
-  `driver source <https://github.com/mongodb/mongo-java-driver/tree/master/src/examples/example>`_.
+  `driver source <https://github.com/mongodb/mongo-java-driver/blob/master/driver/src/examples/tour/QuickTour.java>`_.
 
 Making a Connection
 ~~~~~~~~~~~~~~~~~~~
